@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 进白名单，请发邮件至bsp-gps@xiaomi.com邮件组，写清楚业务需求。-->
+<!-- 业务直接改代码，后续被删除，后果自负。-->
+<config>
+     <allow-ignore-location-settings package="com.xiaomi.mi_connect_service" attributionTag="*" />
+</config>
